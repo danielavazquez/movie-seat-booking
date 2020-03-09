@@ -13,5 +13,3 @@ Via npm
 > gulp watch
 
 ## Demo
-
-http://matheustontini.dx.am/portfolio/AppGiphy/
